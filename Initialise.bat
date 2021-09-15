@@ -1,0 +1,1 @@
+node "c:\program files\atom\initialise.js"
